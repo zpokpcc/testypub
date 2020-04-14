@@ -1,0 +1,1016 @@
+var myvar = [
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-029
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-030
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-031
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-032
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-033
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-034
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-035
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-036
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-037
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-038
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-039
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-040
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-041
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-042
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-043
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-044
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-045
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-046
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-047
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-048
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-049
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-050
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-051
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-052
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-053
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-054
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-055
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-056
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-057
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-058
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-059
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-060
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-061
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-062
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-063
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-064
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-065
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-066
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-067
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-068
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-069
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-070
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-071
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-072
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-073
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-074
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-075
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-076
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-077
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-078
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-079
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-080
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-081
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-082
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-083
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-084
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-085
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-086
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-087
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-088
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-089
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-090
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-091
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-092
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-093
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-094
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-095
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-096
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-097
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-098
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-099
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-100
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-101
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-102
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-103
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-104
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-105
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-106
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-107
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-108
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-109
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-110
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-111
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-112
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-113
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-114
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-115
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-116
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-117
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-118
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-119
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-120
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-121
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-122
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-123
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-124
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-125
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-126
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-127
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-128
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-129
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-130
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-131
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-132
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-133
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-134
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-135
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-136
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-137
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-138
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-139
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-140
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-141
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-142
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-143
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-144
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-145
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-146
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-147
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-148
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-149
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-150
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-151
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-152
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-153
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-154
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-155
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-156
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-157
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-158
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-159
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-160
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-161
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-162
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-163
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-164
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-165
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-166
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-167
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-168
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-169
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-170
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-171
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-172
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-173
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-174
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-175
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-176
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-177
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-178
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-179
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-180
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-181
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-182
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-183
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-184
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-185
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-186
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-187
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-188
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-189
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-190
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-191
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-192
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-193
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-194
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-195
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-196
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+},
+{
+   "Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-028":Alkaliczność całkowita (cocobetainy), meq/g - MB-ER-197
+  ,"FIELD2":""
+  ,"FIELD3":null
+  ,"FIELD4":""
+}
+];
